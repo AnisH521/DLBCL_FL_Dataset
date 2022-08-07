@@ -14,6 +14,19 @@ Affymetrix HuGeneFL array
 - Follicular lymphoma (FL): 19 examples (24.7%)
 
 
-Number of genes: 7070
+# Number of genes: 
 
-Number of samples: 77
+7070
+
+# Number of samples: 
+
+77
+
+
+# SVM_Accuracy : 
+
+93.75 %
+
+# DLBCL_FL_Without_Module :
+
+performed various operations on the raw dataset without using pandas
