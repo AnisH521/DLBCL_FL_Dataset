@@ -22,14 +22,17 @@ Affymetrix HuGeneFL array
 
 77
 
+<h3 align="left">DLBCL_FL_Without_Module : </h3>
+
+performed various operations on the raw dataset without using pandas
 
 <h3 align="left">SVM_Accuracy : </h3>
 
 93.75 %
 
-<h3 align="left">DLBCL_FL_Without_Module : </h3>
+<h3 align="left">Decision Tree Accuracy : </h3>
 
-performed various operations on the raw dataset without using pandas
+87.50 %
 
 <h3 align="left">python version</h3>
 
