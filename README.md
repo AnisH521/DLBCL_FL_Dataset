@@ -22,6 +22,11 @@ Affymetrix HuGeneFL array
 
 77
 
+
+<h3 align="left">feature selection : </h3>
+various methods for selecting best features from dataset for better accuracy of classifier
+
+
 <h3 align="left">DLBCL_FL_Without_Module : </h3>
 
 performed various operations on the raw dataset without using pandas
